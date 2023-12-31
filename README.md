@@ -3,8 +3,7 @@
 <ul>
   <li>📫 How to reach me: krishi.agrawal26@gmail.com</li>
   <li>🔭 I’m currently working on MERN stack projects.</li>
-  <li>🌱 I’m currently learning Blockchain, Next.js</li>
-  <li>💬 I’m looking for help with Blockchain, Web3</li>
+
 
 </ul>
 
