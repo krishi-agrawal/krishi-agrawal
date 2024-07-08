@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" height="30px">
-  <img src="https://img.shields.io/badge/-Hardhat-F3E333?style=flat-square&logo=hardhat&logoColor=black" height="30px">
+  <img src="https://img.shields.io/badge/-Hardhat-F3E333?style=flat-square&logo=hardhat&logoColor=white" height="30px">
 </p>
 
 
