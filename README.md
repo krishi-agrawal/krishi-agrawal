@@ -1,8 +1,9 @@
 <h1>Hi there 👋 I am Krishi</h1>
 <h3>I am a Web Developer...</h3>
 <ul>
+  <li>🔭 I’m currently working on Web3 projects.</li>
+  <li>⚡ Ask me about: Node.js and Flask applications. </li>
   <li>📫 How to reach me: krishi.agrawal26@gmail.com</li>
-  <li>🔭 I’m currently working on MERN stack projects.</li>
 
 
 </ul>
@@ -12,10 +13,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" height="30px">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="30px">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="30px">
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="30px">
@@ -26,6 +27,8 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/-Hardhat-F3E333?style=flat-square&logo=hardhat&logoColor=white" height="30px">
+  <img src="https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" height="30px">
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" height="30px">
 </p>
 
 
@@ -36,6 +39,19 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishi-agrawal&layout=compact&theme=radical)
 
+### 📫 How to reach me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/krishiagrawal/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="30px">
+  </a>
+  <a href="https://leetcode.com/u/krishi26/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="30px">
+  </a>
+  <a href="mailto:krishi.agrawal26@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="30px">
+  </a>
+</p
 
 <!--
 **krishi-agrawal/krishi-agrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
