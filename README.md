@@ -5,9 +5,7 @@
 <h3 align="center">Crafting scalable applications with a passion for seamless user experiences.</h3>
 
 
-- 🔭 I’m currently working on **my DSA skills.**
-
-- 🌱 I’m currently honing **my Blockchain development knowledge.**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **Web3 projects.**
 
