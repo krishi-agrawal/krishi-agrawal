@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Web3 projects.**
 
-- 🤝 I’m looking for help with **Cloud computing.**
-
 - 💬 Ask me about **React, Flask and Node.js applications**
 
 - 📫 How to reach me **krishi.agrawal26@gmail.com**
