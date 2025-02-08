@@ -5,7 +5,7 @@
 <h3 align="center">Crafting scalable applications with a passion for seamless user experiences.</h3>
 
 
-- 🌱 I’m currently working on **CNCF Projects**
+- 🌱 I’m currently contributing to **CNCF Projects.**
 
 - 👯 I’m looking to collaborate on **Web3 projects.**
 
