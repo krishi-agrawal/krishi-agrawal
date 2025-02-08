@@ -5,11 +5,11 @@
 <h3 align="center">Crafting scalable applications with a passion for seamless user experiences.</h3>
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently working on **CNCF Projects**
 
 - 👯 I’m looking to collaborate on **Web3 projects.**
 
-- 💬 Ask me about **React, Flask and Node.js applications**
+- 💬 Ask me about **React, Flask, Node.js & GO applications**
 
 - 📫 How to reach me **krishi.agrawal26@gmail.com**
 
