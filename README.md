@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **krishi.agrawal26@gmail.com**
 
-
+![](https://komarev.com/ghpvc/?username=krishi-agrawal)
 
 
 <h3 align="left">Languages and Tools:</h3>
