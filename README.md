@@ -57,6 +57,7 @@
 <a href="https://www.leetcode.com/krishi26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishi26" height="30" width="40" /></a>
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/krishi-agrawal/krishi-agrawal/output/github-contribution-grid-snake-dark.svg)
 
 
 <!-- <h1>Hi there 👋 I am Krishi</h1>
