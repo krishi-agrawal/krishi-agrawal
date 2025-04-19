@@ -1,19 +1,22 @@
 <div  align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">  
+  <h1 align="center">Hi, I'm Krishi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+  </div>
+  <div align="center">
+ 🌱 I’m currently contributing to <b>CNCF Projects.</b> 
+  </br>
+👯 I’m looking to collaborate on <b></b>Web3 projects.</b>
+    </br>
+💬 Ask me about <b>React, Flask, Node.js & GO applications.</b>
+</br>
+📫 How to reach me <b>krishi.agrawal26@gmail.com</b>
+
 </div>
-<h1 align="center">Hi 👋, I'm Krishi Agrawal</h1>
-<h3 align="center">Crafting scalable applications with a passion for seamless user experiences.</h3>
 
 
-- 🌱 I’m currently contributing to **CNCF Projects.**
+<!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
 
-- 👯 I’m looking to collaborate on **Web3 projects.**
 
-- 💬 Ask me about **React, Flask, Node.js & GO applications**
-
-- 📫 How to reach me **krishi.agrawal26@gmail.com**
-
-![](https://komarev.com/ghpvc/?username=krishi-agrawal)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -57,6 +60,7 @@
 <a href="https://www.leetcode.com/krishi26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishi26" height="30" width="40" /></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=krishi-agrawal)
 
 <!-- ![Snake animation](https://raw.githubusercontent.com/krishi-agrawal/krishi-agrawal/output/github-contribution-grid-snake-dark.svg) --> 
 
